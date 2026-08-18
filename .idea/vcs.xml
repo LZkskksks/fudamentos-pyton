@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/estrutura_decisao/fudamentos-pyton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fudamentos-pyton/funcoes/exercicios/fudamentos-pyton" vcs="Git" />
   </component>
 </project>
